@@ -70,3 +70,40 @@ install dependencies
 ```
 pip3 install requests
 ```
+
+#### Test database can be queried
+
+Use wrangler for this. First create a wrangler config file `wrangler.toml`
+```
+echo '
+name = "database-test"
+account_id = "<ACCOUNT ID>"
+
+[[d1_databases]]
+binding = "TestDB"
+database_name = "TestDB"
+database_id = "<DATABASE ID>"
+'
+```
+
+Then we can test some queries.
+
+Get first 5 items
+```
+wrangler d1 execute TestDB --command "SELECT * FROM TestProductDB LIMIT 5;" --remote --json
+```
+
+Get only `product_name` and `price` columns for first 5 items
+```
+wrangler d1 execute TestDB --command "SELECT product_name, price FROM TestProductDB LIMIT 5;" --remote --json
+```
+
+Only rows with a specific life stage attribute
+```
+wrangler d1 execute TestDB --command "SELECT * FROM TestProductDB WHERE pet_life_stage = 'senior';" --remote --json
+```
+
+First 5 rows but ordered by price
+```
+wrangler d1 execute TestDB --command "SELECT * FROM TestProductDB ORDER BY price DESC LIMIT 5;" --remote --json
+```
