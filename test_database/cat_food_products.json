@@ -1,0 +1,402 @@
+[
+  {
+    "product_name": "Whisker Feast Chicken P\u00e2t\u00e9",
+    "pet_life_stage": "adult",
+    "ingredients": [
+      "turkey",
+      "sunflower oil",
+      "rabbit",
+      "chicken",
+      "lamb"
+    ],
+    "primary_protein": "turkey",
+    "sensitive_stomach": true,
+    "manufacturer": "Feline Feast",
+    "price": 17.29,
+    "package_size": 5.2,
+    "form_factor": "frozen",
+    "reference_url": "https://example.com/products/whisker-feast-chicken-p\u00e2t\u00e9",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/whisker-feast-chicken-p\u00e2t\u00e9.png"
+  },
+  {
+    "product_name": "Ocean Delight Tuna & Salmon",
+    "pet_life_stage": "senior",
+    "ingredients": [
+      "venison",
+      "carrots",
+      "apple",
+      "tuna",
+      "turkey"
+    ],
+    "primary_protein": "venison",
+    "sensitive_stomach": true,
+    "manufacturer": "Feline Feast",
+    "price": 18.64,
+    "package_size": 4.7,
+    "form_factor": "freeze dry",
+    "reference_url": "https://example.com/products/ocean-delight-tuna-&-salmon",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/ocean-delight-tuna-&-salmon.png"
+  },
+  {
+    "product_name": "Senior Sensations Turkey Kibble",
+    "pet_life_stage": "all",
+    "ingredients": [
+      "turkey",
+      "tuna",
+      "broth",
+      "barley",
+      "potato"
+    ],
+    "primary_protein": "turkey",
+    "sensitive_stomach": true,
+    "manufacturer": "NatureMeow",
+    "price": 3.81,
+    "package_size": 3.3,
+    "form_factor": "refrigerated",
+    "reference_url": "https://example.com/products/senior-sensations-turkey-kibble",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/senior-sensations-turkey-kibble.png"
+  },
+  {
+    "product_name": "All Life Lamb Freeze Bites",
+    "pet_life_stage": "senior",
+    "ingredients": [
+      "turkey",
+      "brown rice",
+      "apple",
+      "tuna",
+      "barley"
+    ],
+    "primary_protein": "turkey",
+    "sensitive_stomach": false,
+    "manufacturer": "Feline Feast",
+    "price": 12.52,
+    "package_size": 15.6,
+    "form_factor": "freeze dry",
+    "reference_url": "https://example.com/products/all-life-lamb-freeze-bites",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/all-life-lamb-freeze-bites.png"
+  },
+  {
+    "product_name": "Gentle Tummy Duck Stew",
+    "pet_life_stage": "senior",
+    "ingredients": [
+      "chicken",
+      "flaxseed",
+      "rabbit",
+      "apple",
+      "salmon"
+    ],
+    "primary_protein": "chicken",
+    "sensitive_stomach": true,
+    "manufacturer": "NatureMeow",
+    "price": 11.35,
+    "package_size": 6.9,
+    "form_factor": "frozen",
+    "reference_url": "https://example.com/products/gentle-tummy-duck-stew",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/gentle-tummy-duck-stew.png"
+  },
+  {
+    "product_name": "Kitten Thrive Dry Mix",
+    "pet_life_stage": "adult",
+    "ingredients": [
+      "rabbit",
+      "salmon",
+      "chicken",
+      "cranberries",
+      "sunflower oil"
+    ],
+    "primary_protein": "rabbit",
+    "sensitive_stomach": true,
+    "manufacturer": "Feline Feast",
+    "price": 6.13,
+    "package_size": 15.7,
+    "form_factor": "dry",
+    "reference_url": "https://example.com/products/kitten-thrive-dry-mix",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/kitten-thrive-dry-mix.png"
+  },
+  {
+    "product_name": "Golden Years Beef Loaf",
+    "pet_life_stage": "senior",
+    "ingredients": [
+      "chicken",
+      "carrots",
+      "flaxseed",
+      "turkey",
+      "broth"
+    ],
+    "primary_protein": "chicken",
+    "sensitive_stomach": false,
+    "manufacturer": "WhiskerCo",
+    "price": 10.9,
+    "package_size": 8.7,
+    "form_factor": "freeze dry",
+    "reference_url": "https://example.com/products/golden-years-beef-loaf",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/golden-years-beef-loaf.png"
+  },
+  {
+    "product_name": "Wild Catch Salmon Nuggets",
+    "pet_life_stage": "adult",
+    "ingredients": [
+      "chicken",
+      "duck",
+      "apple",
+      "flaxseed",
+      "beef"
+    ],
+    "primary_protein": "chicken",
+    "sensitive_stomach": true,
+    "manufacturer": "Feline Feast",
+    "price": 6.28,
+    "package_size": 13.2,
+    "form_factor": "freeze dry",
+    "reference_url": "https://example.com/products/wild-catch-salmon-nuggets",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/wild-catch-salmon-nuggets.png"
+  },
+  {
+    "product_name": "Meow Mixers Turkey Blend",
+    "pet_life_stage": "adult",
+    "ingredients": [
+      "chicken",
+      "cranberries",
+      "apple",
+      "carrots",
+      "salmon"
+    ],
+    "primary_protein": "chicken",
+    "sensitive_stomach": false,
+    "manufacturer": "WhiskerCo",
+    "price": 4.32,
+    "package_size": 10.2,
+    "form_factor": "can",
+    "reference_url": "https://example.com/products/meow-mixers-turkey-blend",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/meow-mixers-turkey-blend.png"
+  },
+  {
+    "product_name": "Freeze-Dried Rabbit Crunchies",
+    "pet_life_stage": "senior",
+    "ingredients": [
+      "chicken",
+      "turkey",
+      "broth",
+      "barley",
+      "sweet potato"
+    ],
+    "primary_protein": "chicken",
+    "sensitive_stomach": false,
+    "manufacturer": "Feline Feast",
+    "price": 16.1,
+    "package_size": 9.3,
+    "form_factor": "refrigerated",
+    "reference_url": "https://example.com/products/freeze-dried-rabbit-crunchies",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/freeze-dried-rabbit-crunchies.png"
+  },
+  {
+    "product_name": "Purrfectly Fresh Chicken Meal",
+    "pet_life_stage": "all",
+    "ingredients": [
+      "chicken",
+      "oatmeal",
+      "duck",
+      "zucchini",
+      "apple"
+    ],
+    "primary_protein": "chicken",
+    "sensitive_stomach": false,
+    "manufacturer": "MeowMixers",
+    "price": 12.6,
+    "package_size": 6.7,
+    "form_factor": "refrigerated",
+    "reference_url": "https://example.com/products/purrfectly-fresh-chicken-meal",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/purrfectly-fresh-chicken-meal.png"
+  },
+  {
+    "product_name": "Savory Bites Tuna Freeze Dry",
+    "pet_life_stage": "adult",
+    "ingredients": [
+      "tuna",
+      "cranberries",
+      "broth",
+      "salmon",
+      "rabbit"
+    ],
+    "primary_protein": "tuna",
+    "sensitive_stomach": true,
+    "manufacturer": "Feline Feast",
+    "price": 5.74,
+    "package_size": 13.3,
+    "form_factor": "dry",
+    "reference_url": "https://example.com/products/savory-bites-tuna-freeze-dry",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/savory-bites-tuna-freeze-dry.png"
+  },
+  {
+    "product_name": "Refrigerated Turkey Stew",
+    "pet_life_stage": "senior",
+    "ingredients": [
+      "tuna",
+      "peas",
+      "rabbit",
+      "chicken",
+      "oatmeal"
+    ],
+    "primary_protein": "tuna",
+    "sensitive_stomach": false,
+    "manufacturer": "Purr Naturals",
+    "price": 19.49,
+    "package_size": 12.9,
+    "form_factor": "refrigerated",
+    "reference_url": "https://example.com/products/refrigerated-turkey-stew",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/refrigerated-turkey-stew.png"
+  },
+  {
+    "product_name": "Classic Duck P\u00e2t\u00e9",
+    "pet_life_stage": "all",
+    "ingredients": [
+      "venison",
+      "lamb",
+      "broth",
+      "apple",
+      "zucchini"
+    ],
+    "primary_protein": "venison",
+    "sensitive_stomach": true,
+    "manufacturer": "HappyTail",
+    "price": 2.45,
+    "package_size": 15.1,
+    "form_factor": "freeze dry",
+    "reference_url": "https://example.com/products/classic-duck-p\u00e2t\u00e9",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/classic-duck-p\u00e2t\u00e9.png"
+  },
+  {
+    "product_name": "Healthy Belly Beef & Rice",
+    "pet_life_stage": "adult",
+    "ingredients": [
+      "venison",
+      "potato",
+      "carrots",
+      "rabbit",
+      "oatmeal"
+    ],
+    "primary_protein": "venison",
+    "sensitive_stomach": true,
+    "manufacturer": "WhiskerCo",
+    "price": 9.12,
+    "package_size": 13.4,
+    "form_factor": "frozen",
+    "reference_url": "https://example.com/products/healthy-belly-beef-&-rice",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/healthy-belly-beef-&-rice.png"
+  },
+  {
+    "product_name": "Frosty Fish Frozen Meal",
+    "pet_life_stage": "all",
+    "ingredients": [
+      "lamb",
+      "zucchini",
+      "flaxseed",
+      "turkey",
+      "potato"
+    ],
+    "primary_protein": "lamb",
+    "sensitive_stomach": true,
+    "manufacturer": "WhiskerCo",
+    "price": 14.4,
+    "package_size": 6.9,
+    "form_factor": "dry",
+    "reference_url": "https://example.com/products/frosty-fish-frozen-meal",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/frosty-fish-frozen-meal.png"
+  },
+  {
+    "product_name": "Grain-Free Chicken Delight",
+    "pet_life_stage": "all",
+    "ingredients": [
+      "venison",
+      "rabbit",
+      "beef",
+      "apple",
+      "chicken"
+    ],
+    "primary_protein": "venison",
+    "sensitive_stomach": false,
+    "manufacturer": "Purr Naturals",
+    "price": 13.54,
+    "package_size": 3.4,
+    "form_factor": "freeze dry",
+    "reference_url": "https://example.com/products/grain-free-chicken-delight",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/grain-free-chicken-delight.png"
+  },
+  {
+    "product_name": "All Ages Lamb Bits",
+    "pet_life_stage": "adult",
+    "ingredients": [
+      "venison",
+      "tuna",
+      "duck",
+      "salmon",
+      "sweet potato"
+    ],
+    "primary_protein": "venison",
+    "sensitive_stomach": false,
+    "manufacturer": "WhiskerCo",
+    "price": 13.14,
+    "package_size": 14.0,
+    "form_factor": "frozen",
+    "reference_url": "https://example.com/products/all-ages-lamb-bits",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/all-ages-lamb-bits.png"
+  },
+  {
+    "product_name": "Tummy Care Salmon Mix",
+    "pet_life_stage": "adult",
+    "ingredients": [
+      "turkey",
+      "zucchini",
+      "carrots",
+      "lamb",
+      "apple"
+    ],
+    "primary_protein": "turkey",
+    "sensitive_stomach": false,
+    "manufacturer": "Feline Feast",
+    "price": 11.95,
+    "package_size": 11.5,
+    "form_factor": "refrigerated",
+    "reference_url": "https://example.com/products/tummy-care-salmon-mix",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/tummy-care-salmon-mix.png"
+  },
+  {
+    "product_name": "Happy Meow Venison Chunks",
+    "pet_life_stage": "all",
+    "ingredients": [
+      "beef",
+      "oatmeal",
+      "peas",
+      "brown rice",
+      "flaxseed"
+    ],
+    "primary_protein": "beef",
+    "sensitive_stomach": false,
+    "manufacturer": "WhiskerCo",
+    "price": 19.46,
+    "package_size": 14.2,
+    "form_factor": "freeze dry",
+    "reference_url": "https://example.com/products/happy-meow-venison-chunks",
+    "created_at": "2025-04-26T04:13:23.515869Z",
+    "product_image_url": "https://example.com/images/happy-meow-venison-chunks.png"
+  }
+]
